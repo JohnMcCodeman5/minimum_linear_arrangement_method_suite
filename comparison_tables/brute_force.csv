@@ -1,0 +1,6 @@
+Dim,Method,Value,Time
+5,brute_force,13,0.0
+8,brute_force,21,0.48
+10,brute_force,76,79.038,brute_force,21,0.58
+11,brute_force,59,552.97
+12,brute_force,241,10351.71
